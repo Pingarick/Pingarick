@@ -11,7 +11,7 @@
 |---|---|---|
 | [Anti-SDVG](https://github.com/Pingarick/antisdvg) | Android-блокировщик соцсетей: разблокировка за чтение книг, ИИ проверяет пересказ | Kotlin, Room, AccessibilityService, CameraX, DeepSeek |
 | [Калории](https://github.com/Pingarick/calorie-app-android) | Дневник питания: фото еды → КБЖУ через vision-модель | Kotlin, Room, CameraX, Gemini Vision |
-| [Kwork Scout](https://github.com/Pingarick/kwork-scout) | Конвейер поиска заказов: парсинг → скоринг → КП → Telegram | Python, Playwright, LLM, systemd |
+| Kwork Scout *(код приватен — покажу по запросу)* | Конвейер поиска заказов: парсинг → скоринг → КП → Telegram | Python, Playwright, LLM, systemd |
 | [Avito AI Seller](https://github.com/Pingarick/avito-ai-seller) | ИИ-продавец для Avito: ответы покупателям по базе товаров | Python, aiogram, SQLAlchemy, DeepSeek |
 | [Calorie Bot](https://github.com/Pingarick/calorie_bot) | Telegram-бот: КБЖУ по фото, рацион на неделю, дневник | Python, Gemini Vision, SQLite |
 | [VK + Яндекс.Диск](https://github.com/Pingarick/vk-yadisk-bot) | Поиск файлов на Диске прямо из VK | Python, VK API, Яндекс.Диск API |
