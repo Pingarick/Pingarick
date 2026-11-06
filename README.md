@@ -1,9 +1,10 @@
-# Василий — Python / Android разработчик
+# Василий — Python / Android / 1С разработчик
 
-Студент 2 курса «Программной инженерии». Пишу на Python и Kotlin, веду проекты от идеи до продакшена:
-боты живут на VPS под systemd, Android-приложения собираются в подписанные APK.
+Студент 2 курса «Программной инженерии». Пишу на Python и Kotlin, делаю сайты и дорабатываю 1С.
+Веду проекты от идеи до продакшена: боты живут на VPS под systemd, Android-приложения собираются
+в подписанные APK, сайты выходят на домен, обработки 1С проверяются на тестовой базе.
 
-**Открыт к стажировке (Python / Android) и небольшим заказам на автоматизацию.**
+**Открыт к стажировке (Python / Android) и небольшим заказам: боты, сайты, 1С, автоматизация.**
 
 ## Проекты
 
@@ -15,15 +16,28 @@
 | [Avito AI Seller](https://github.com/Pingarick/avito-ai-seller) | ИИ-продавец для Avito: ответы покупателям по базе товаров | Python, aiogram, SQLAlchemy, DeepSeek |
 | [Calorie Bot](https://github.com/Pingarick/calorie_bot) | Telegram-бот: КБЖУ по фото, рацион на неделю, дневник | Python, Gemini Vision, SQLite |
 | [VK + Яндекс.Диск](https://github.com/Pingarick/vk-yadisk-bot) | Поиск файлов на Диске прямо из VK | Python, VK API, Яндекс.Диск API |
+| Шахматный ИИ-тренер *(код приватен)* | Android-приложение: игра, тренер с разбором, подсказки, история, PGN | Kotlin, Stockfish, Room, Android |
+| Сайты под заказ *(код приватный)* | Лендинги и витрины для локального бизнеса: вёрстка, адаптив, формы, SEO | HTML, CSS, JavaScript |
+| 1С: выгрузка в Excel *(код приватный)* | Внешняя обработка, отчёт и печатная форма, проверка на тестовой базе | 1С:Предприятие, СКД, BSL |
+
+## Ещё в работе
+
+- **Sport Coach** — Android-приложение с ИИ-тренером: программы, тренировки, прогрессия, разбор подходов.
+- **PromptForge** — локальный генератор промтов для ComfyUI: шаблоны, память, переключение моделей.
 
 ## Стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![1C](https://img.shields.io/badge/1%D0%A1-D32027?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-2B2B2B?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
